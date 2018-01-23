@@ -48,7 +48,7 @@ Bounties and stock options for contributors.
 ## Is There a roadmap or whitepaper?
 There is currently no plans to make a roadmap or a white-paper because we don’t want to make Koto a trading tool for traders to profit out of. We want to improve the meaning and the value of Koto steadily, but this doesn’t mean we are developing without a plan. For the moment, we will develop with these policies. (In order of priority.)
 
-1. Follow ZCash’s updates steadily. (There are many failed fork projects which failed to follow original coin’s update due to unique functions.)
+1. Follow ZCash’s updates steadily. (There are many failed fork projects which failed to follow source project’s update due to unique functions.)
 2. Decide a logo of Koto.
 3. Update Koto’s official website with a new Koto logo.
 4. Maintain Windows/Mac/Linux wallets.
