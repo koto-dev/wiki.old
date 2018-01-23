@@ -1,8 +1,7 @@
 # プロジェクトに関するFAQまとめ
 
 2018/1/20改訂版  
-
-'Please scroll down to English'
+Please scroll down to English
 ---
 
 ## 通貨単位は？
