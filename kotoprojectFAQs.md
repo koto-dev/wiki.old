@@ -3,11 +3,11 @@
 2018/1/20改訂版  
 Please scroll down to English  
 
-## 通貨単位は？
-KOTO
-
 ## 正式名称は？
 Koto（１文字目が大文字）
+
+## 通貨単位は？
+KOTO
 
 ## プレマインの使用目的
 koto貢献してくれた人達へのバウンティでありストックオプション
@@ -24,3 +24,30 @@ koto貢献してくれた人達へのバウンティでありストックオプ�
 7. 上場（調査中）
 
 上場を急ぐ必要もない、目先の開発も急ぐ必要もない、まずは知見者の意見を取りまとめ、やれることを民主的に遂行する。
+
+---
+
+# Koto project FAQs
+
+## Official project name of Koto
+Koto (Uppercase ‘K’ and lowercase ‘oto’)
+
+## Unit of Koto
+KOTO (Uppercase ‘KOTO’)
+
+## Usage of premines
+Bounties and stock options for contributors. 
+(ex. Developers of wallet, pool, Author of logo, etc.)
+
+## Is There a roadmap or whitepaper?
+There is currently no plans to make a roadmap or a white-paper because we don’t want to make Koto a trading tool for traders to profit out of. We want to improve the meaning and the value of Koto steadily, but this doesn’t mean we are developing without a plan. For the moment, we will develop with these policies. (In order of priority.)
+
+1.Follow ZCash’s updates steadily. (There are many failed projects which failed to follow ZCash’s update due to unique functions.)
+2.Decide a logo of Koto.
+3.Update Koto’s official website with a new Koto logo.
+4.Maintain Windows/Mac/Linux wallets.
+5.Improve English support.
+6.Diversify development risks.
+7.Listing. (We are currently collecting information now)
+
+We are carefully making a schedule of listing and development. We will summarize the advice of experts, and we will try our best to continue developing Koto.
