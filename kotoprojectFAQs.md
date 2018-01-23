@@ -1,7 +1,8 @@
 # プロジェクトに関するFAQまとめ
   
-2018/1/20改訂版  
-Please scroll down to English  
+2018/1/20 改訂版  
+2018/1/23 公開  
+Please scroll down to [English version](#english)  
 
 ## 正式名称は？
 Koto（１文字目が大文字）
@@ -27,7 +28,12 @@ koto貢献してくれた人達へのバウンティでありストックオプ�
 
 ---
 
+<a name="english"></a>
 # Koto project FAQs
+
+2018/1/20 Created  
+2018/1/23 Published  
+2018/1/23 Revised mistranslation  
 
 ## Official project name of Koto
 Koto (Uppercase ‘K’ and lowercase ‘oto’)
@@ -42,12 +48,12 @@ Bounties and stock options for contributors.
 ## Is There a roadmap or whitepaper?
 There is currently no plans to make a roadmap or a white-paper because we don’t want to make Koto a trading tool for traders to profit out of. We want to improve the meaning and the value of Koto steadily, but this doesn’t mean we are developing without a plan. For the moment, we will develop with these policies. (In order of priority.)
 
-1.Follow ZCash’s updates steadily. (There are many failed projects which failed to follow ZCash’s update due to unique functions.)
-2.Decide a logo of Koto.
-3.Update Koto’s official website with a new Koto logo.
-4.Maintain Windows/Mac/Linux wallets.
-5.Improve English support.
-6.Diversify development risks.
-7.Listing. (We are currently collecting information now)
+1. Follow ZCash’s updates steadily. (There are many failed fork projects which failed to follow original coin’s update due to unique functions.)
+2. Decide a logo of Koto.
+3. Update Koto’s official website with a new Koto logo.
+4. Maintain Windows/Mac/Linux wallets.
+5. Improve English support.
+6. Diversify development risks of member missing.
+7. Listing. (We are currently collecting information now)
 
 We are carefully making a schedule of listing and development. We will summarize the advice of experts, and we will try our best to continue developing Koto.
