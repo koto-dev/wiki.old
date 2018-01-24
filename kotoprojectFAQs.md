@@ -63,7 +63,7 @@ There is currently no plans to make a roadmap or a white-paper because we don’
 7. Listing. (We are currently collecting information now)
 We are carefully making a schedule of listing and development. We will summarize the advice of experts, and we will try our best to continue developing Koto.
 
-# Development of state-of-the-art technologies such as LN.
+# Policy for advanced technology by koto.cash and development members
 Currently we engage in development of Koto's uniqueness while catching up with Zcash.
 Also, we focus on development member recruitment.
 Many topics regarding future implementation are discussed on the Discord channels.
