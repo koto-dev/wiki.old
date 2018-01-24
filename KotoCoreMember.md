@@ -2,7 +2,9 @@
 
 
 ## 代行責任者/Discord運営（Acting director/Discord manager）
-Kotohodler(DiscordID:)  
+#### 責任者
+Kotohodler(DiscordID:)  
+
 <メンバー(member)>  
 Mon_chi(DiscordID:)各業務の相談役。
 
