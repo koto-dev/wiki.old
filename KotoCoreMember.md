@@ -34,7 +34,8 @@ renium9(DiscordID:)
 - ssmtc(DiscordID:)MakeWallet運営でもある(inEnglish)  
 - dkwzjw(DiscordID:)※本人意向によりwinビルドまでのサポート希望(inEnglish)  
 - WO(DiscordID:)insightとkotocoin.info運営でもある(inEnglish)  
-- téutidos(DiscordID:)KOTOPOOL.WORK運営でもある。PRチームだったが高い技術力により開発技術メンバーへ(inEnglish)  
+- téutidos(DiscordID:)KOTOPOOL.WORK運営でもある。PRチームだったが高い技術力により開発技術メンバーへ(inEnglish)  
+- akarinS(akarinS#6566)
 
 
 ## 経理チーム(Vault)
