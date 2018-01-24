@@ -1,7 +1,9 @@
-# Koto wiki
+# 下のふたつからお選び下さい（/inEnglish）
+
+# Koto wiki (使用方法などについて/inEnglish)
 
 https://github.com/koto-dev/wiki/wiki
 
-# how to use
-/wiki/wiki：運営の管理のいらないもの（例：インストール方法など）  
-/wiki：運営の管理が必要なもの（例：FAQ）
+# Koto wiki(運営に関する公的文章/inEnglish)
+
+https://github.com/koto-dev/wiki/
