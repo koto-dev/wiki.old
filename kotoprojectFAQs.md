@@ -1,6 +1,6 @@
 # プロジェクトに関するFAQまとめ
   
-2018/1/20 改訂版  
+2018/1/20 作成  
 2018/1/23 公開  
 Please scroll down to [English version](#english)  
 
