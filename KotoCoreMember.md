@@ -3,14 +3,14 @@
 
 ## 代行責任者/Discord運営（Acting director/Discord manager）
 Kotohodler(DiscordID:)  
-### メンバー(member)
+<メンバー(member)>
 Mon_chi(DiscordID:)各業務の相談役。
 
 ## PRチーム（public relations director）
 各言語チャンネルの対応を主に担当する。(inEnglish)  
-#### 責任者（public relations director）
+<責任者（public relations director）>
 wangwang(DiscordID:)英語と中国語を担当。(inEnglish)
-### メンバー(member)
+<メンバー(member)>
 - LimitPlays(DiscordID:)英語と中国語を担当(inEnglish)
 - dr_kw1(DiscordID:)英語チャンネルを担当。技術もできる。(inEnglish)  
 - yoshuya(DiscordID:)英語チャンネルを担当。limit氏のメッセージを伝えてくれる。(inEnglish)  
