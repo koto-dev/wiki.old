@@ -7,6 +7,8 @@ Kotohodler(DiscordID:)  
 #### メンバー(member)
 Mon_chi(DiscordID:)各業務の相談役。
 
+
+
 ## PRチーム（public relations）
 各言語チャンネルの対応を主に担当する。(inEnglish)  
 #### 責任者（director）
@@ -17,6 +19,7 @@ wangwang(DiscordID:)英語と中国語を担当。(inEnglish)
 - yoshuya(DiscordID:)英語チャンネルを担当。limit氏のメッセージを伝えてくれる。(inEnglish)  
 
 
+
 ## デスクチーム(desk)
 各言語への文書作成やKotoプロジェクトの公文書を作成する。(inEnglish)  
 #### 責任者（director）
@@ -24,6 +27,7 @@ komax_vc(DiscordID:)日本語Bitcointalkも担当する(inEnglish)
 #### メンバー(member)
 - iToby(DiscordID:)komax氏の翻訳作業を手伝う(inEnglish)  
 - hahu(DiscordID:)komax氏の翻訳作業を手伝う(inEnglish)  
+
 
 
 ## 開発技術チーム(Development)
@@ -36,6 +40,7 @@ renium9(DiscordID:)
 - WO(DiscordID:)insightとkotocoin.info運営でもある(inEnglish)  
 - téutidos(DiscordID:)KOTOPOOL.WORK運営でもある。PRチームだったが高い技術力により開発技術メンバーへ(inEnglish)  
 - akarinS(akarinS#6566)
+
 
 
 ## 経理チーム(Vault)
