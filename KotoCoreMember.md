@@ -8,7 +8,7 @@ Discordを立ち上げ。各セクションのメンバーが動きやすいよ�
 
 ## PRチーム（public relations director）
 各言語チャンネルの対応を主に担当する。(inEnglish)  
-### 責任者（public relations director）
+#### 責任者（public relations director）
 wangwang(DiscordID:)
 英語と中国語を担当。(inEnglish)
 ### メンバー(member)
