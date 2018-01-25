@@ -1,7 +1,11 @@
 # プロジェクトに関するFAQまとめ
   
+<details>
 2018/1/20 作成  
 2018/1/23 公開  
+2018/1/24 更新  
+<summary>2018/1/25 修正</summary></details>  
+
 Please scroll down to [English version](#english)  
 
 ## 正式名称は？
@@ -25,7 +29,7 @@ koto貢献してくれた人達へのバウンティでありストックオプ�
 7. 上場（調査中）
 上場を急ぐ必要もない、目先の開発も急ぐ必要もない、まずは知見者の意見を取りまとめ、やれることを民主的に遂行する。
 
-# LN等の先端技術について
+## LN等の先端技術に関するkoto.cashと開発メンバーの方針
 現在、我々はZcashに追随しながら、Kotoの独自性の開発に注力しています。  
 また、開発メンバーの確保にも取り組んでいます。  
 Discord上では多くの将来的な実装について話し合われています。  
@@ -37,9 +41,10 @@ Discord上では多くの将来的な実装について話し合われていま�
 <a name="english"></a>
 # Koto project FAQs
 
-2018/1/20 Created  
+<details>2018/1/20 Created  
 2018/1/23 Published  
 2018/1/23 Revised mistranslation  
+<summary>2018/1/24 Update</summary></details>  
 
 ## Official project name of Koto
 Koto (Uppercase ‘K’ and lowercase ‘oto’)
@@ -63,7 +68,7 @@ There is currently no plans to make a roadmap or a white-paper because we don’
 7. Listing. (We are currently collecting information now)
 We are carefully making a schedule of listing and development. We will summarize the advice of experts, and we will try our best to continue developing Koto.
 
-# Policy for advanced technology by koto.cash and development members
+## Policy for advanced technology by koto.cash and development members
 Currently we engage in development of Koto's uniqueness while catching up with Zcash.  
 Also, we focus on development member recruitment.  
 Many topics regarding future implementation are discussed on the Discord channels.  
