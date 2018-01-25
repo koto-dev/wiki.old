@@ -1,10 +1,11 @@
 # プロジェクトに関するFAQまとめ
   
 <details>
-2018/1/20 作成  
-2018/1/23 公開  
-2018/1/24 更新  
-<summary>2018/1/25 修正</summary></details>  
+<summary>2018/1/25 修正</summary>
+2018/1/24 更新<br>
+2018/1/23 公開<br>
+2018/1/20 作成
+</details>  
 
 Please scroll down to [English version](#english)  
 
@@ -41,10 +42,11 @@ Discord上では多くの将来的な実装について話し合われていま�
 <a name="english"></a>
 # Koto project FAQs
 
-<details>2018/1/20 Created  
-2018/1/23 Published  
-2018/1/23 Revised mistranslation  
-<summary>2018/1/24 Update</summary></details>  
+<details><summary>2018/1/24 Update</summary>
+2018/1/20 Created<br>
+2018/1/23 Published<br>
+2018/1/23 Revised mistranslation
+</details>  
 
 ## Official project name of Koto
 Koto (Uppercase ‘K’ and lowercase ‘oto’)
