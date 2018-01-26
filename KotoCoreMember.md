@@ -1,6 +1,10 @@
 # Kotoコア開発メンバー一覧（KotoCoreMember）
 
 
+## 0.スターター(starter)
+koot.cash(@koto.cash#9562)
+
+
 ## 1. 代行責任者/Discord運営（Acting）
 #### 責任者（director）
 Kotohodler(@kotohodler#0970)  
