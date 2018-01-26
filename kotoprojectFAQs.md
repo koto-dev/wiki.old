@@ -27,7 +27,8 @@ koto貢献してくれた人達へのバウンティでありストックオプ�
 4. Windows、mac、linuxのウォレット整備
 5. 英語圏の人とも会話ができるよう英語チャンネルの強化
 6. 開発リスクの分散
-7. 上場（調査中）  
+7. 上場（調査中）
+
 上場を急ぐ必要もない、目先の開発も急ぐ必要もない、まずは知見者の意見を取りまとめ、やれることを民主的に遂行する。
 
 ## LN等の先端技術に関するkoto.cashと開発メンバーの方針
@@ -68,7 +69,8 @@ There is currently no plans to make a roadmap or a white-paper because we don’
 4. Maintain Windows/Mac/Linux wallets.
 5. Improve English support.
 6. Diversify development risks of member missing.
-7. Listing. (We are currently collecting information now)  
+7. Listing. (We are currently collecting information now)
+
 We are carefully making a schedule of listing and development. We will summarize the advice of experts, and we will try our best to continue developing Koto.
 
 ## Policy for advanced technology by koto.cash and development members
