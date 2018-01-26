@@ -1,7 +1,7 @@
 # Kotoコア開発メンバー一覧（KotoCoreMember）
 
 
-## 1.代行責任者/Discord運営（Acting）
+## 1. 代行責任者/Discord運営（Acting）
 #### 責任者（director）
 Kotohodler(@kotohodler#0970)  
 #### メンバー(member)
@@ -9,7 +9,7 @@ Mon_chi(@もぐら#1629)
 
 
 
-## 2.PRチーム (public relations)
+## 2. PRチーム (public relations)
 各言語チャンネルの対応を主に担当する。 ("PR-team" mainly support correspond of each language channel.)  
 #### 責任者 (director)
 wangwang (@wangwang#6440) 英語と中国語を担当。 ("wangwang-san" support English and Chinese.)
@@ -20,7 +20,7 @@ wangwang (@wangwang#6440) 英語と中国語を担当。 ("wangwang-san" support
 
 
 
-## 3.デスクチーム (desk)
+## 3. デスクチーム (desk)
 各言語への文書作成やKotoプロジェクトの公文書を作成する。 ("Desk-team" make documents for each language and "Official Documents of Koto project".)  
 #### 責任者 (director)
 komax_vc (@komax_vc#0819) 日本語Bitcointalkも担当する ("komax_vc-san" support Japanese Bitcointalk.)    
@@ -30,7 +30,7 @@ komax_vc (@komax_vc#0819) 日本語Bitcointalkも担当する ("komax_vc-san" su
 
 
 
-## 4.開発技術チーム (Development)
+## 4. 開発技術チーム (Development)
 #### 責任者 (director)
 renium9 (@renium9#7054)
 #### メンバー (member)
@@ -43,6 +43,6 @@ renium9 (@renium9#7054)
 
 
 
-## 5.経理チーム (Vault)
+## 5. 経理チーム (Vault)
 #### 責任者 (Development)
 monocrafty (@monocrafty#3773)
