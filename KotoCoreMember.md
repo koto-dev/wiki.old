@@ -46,3 +46,4 @@ renium9 (@renium9#7054)
 ## 5. 経理チーム (Vault)
 #### 責任者 (Development)
 monocrafty (@monocrafty#3773)
+he like beer
