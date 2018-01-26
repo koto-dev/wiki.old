@@ -68,7 +68,7 @@ There is currently no plans to make a roadmap or a white-paper because we don’
 4. Maintain Windows/Mac/Linux wallets.
 5. Improve English support.
 6. Diversify development risks of member missing.
-7. Listing. (We are currently collecting information now)
+7. Listing. (We are currently collecting information now)  
 We are carefully making a schedule of listing and development. We will summarize the advice of experts, and we will try our best to continue developing Koto.
 
 ## Policy for advanced technology by koto.cash and development members
