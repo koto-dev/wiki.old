@@ -2,14 +2,14 @@
 
 
 ## 0. スターター (starter)
-koot.cash (@koto.cash#9562)
+koto.cash (@koto.cash#9562)
 
 
 ## 1. 代行責任者/Discord運営（Acting）
-#### 責任者（director）
-Kotohodler(@kotohodler#0970)  
+#### 責任者 (director)
+Kotohodler (@kotohodler#0970)  
 #### メンバー (member)
-Mon_chi(@もぐら#1629)
+Mon_chi (@もぐら#1629)
 
 
 
