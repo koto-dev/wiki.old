@@ -42,7 +42,8 @@ Discord上では多くの将来的な実装について話し合われていま�
 <a name="english"></a>
 # Koto project FAQs
 
-<details><summary>2018/1/24 Update</summary>
+<details><summary>2018/1/26 Update</summary>
+2018/1/24 Update<br>
 2018/1/20 Created<br>
 2018/1/23 Published<br>
 2018/1/23 Revised mistranslation
@@ -75,4 +76,5 @@ Currently we engage in development of Koto's uniqueness while catching up with Z
 Also, we focus on development member recruitment.  
 Many topics regarding future implementation are discussed on the Discord channels.  
 Most of those technologies are too early to jump into.  
+(ex. LightningNetwork, AtomicSwap, MasterNode, etc.)  
 We would like to choose future implementaions carefully, thus we assume new features might take long time to realize (maybe a few years).  
