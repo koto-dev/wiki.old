@@ -1,7 +1,7 @@
 # Kotoコア開発メンバー一覧（KotoCoreMember）
 
 
-## 0. スターター (starter)
+## 0. 創設者 (Founder)
 koto.cash (@koto.cash#9562)
 
 
