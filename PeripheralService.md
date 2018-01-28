@@ -38,7 +38,7 @@
 # マイニングプール (Mining Pools)
 プール日本を中心には各国で非常に増えてきております  
 (The mining pools are increasing not only in Japan but in many other countries.)  
-以下サービスが大変便利ですので参考にしてください。  
+下記のサービスが大変便利ですので参考にしてください。 
 (The site below is quite useful.  Please check it out.)
 
 ## プール稼働状況確認サイト (Pool Status Monitor)
