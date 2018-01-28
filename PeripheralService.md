@@ -1,5 +1,5 @@
 # カテゴリ (Category)
-## サービス名 (Service Name)
+## サービス名 (Site Name)
 ### URL
 
 ---
