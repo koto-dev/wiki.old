@@ -37,7 +37,7 @@
 
 # マイニングプール (Mining Pools)
 プール日本を中心には各国で非常に増えてきております  
-(*Swimming* pools are increasing not only in Japan but in many other countries.)  
+(mining pools are increasing not only in Japan but in many other countries.)  mining
 以下サービスが大変便利ですので参考にしてください。  
 (The site below is quite useful.  Please check it out.)
 
