@@ -21,7 +21,7 @@ Kotoのイメージロゴが2018年1月に決定し、Koto開発チームは今�
 # Guidelines for using the logo of Koto
 The logo of Koto was decided in January 2018 and we, Koto dev team, enact the rules for using the logo as follows.
 
-The logo can be modificated freely and we renounce all the rights as CC0.
+The logo can be modified freely and we renounce all the rights as CC0.
 Any modification and/or processing of the logo is allowed at your own responsibility.
 We, Koto dev team, are not responsible for any damage, loss, confliction with a third party or any other issues caused by using the logo.
 We do not supply any support for editing the logo.
