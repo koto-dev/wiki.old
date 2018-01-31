@@ -1,6 +1,11 @@
 これは正式発表前の情報です．
 This is not release version.
 
+
+
+
+
+
 # 公募したKotoのロゴの利用ガイドライン
 
 Kotoのイメージロゴが2018年1月に決定し、Koto開発チームは今後の利用について以下のように設定する
@@ -13,3 +18,18 @@ Kotoのイメージロゴが2018年1月に決定し、Koto開発チームは今�
 - ロゴデータを改変してブログに設置する行為
 - ロゴデータを改変してソフトに組み込みGithubにプルリクエストする行為
 
+# Guidelines for using the logo of Koto
+The image logo of Koto was decided in January 2018, and the Koto dev team sets the rules for future use as these follows.
+
+Modified free and We abandon all rights as CC0.
+Any modification or processing is free(allowed?) at the user's responsibility.
+KotoProject does not follow any responsibility in any damage, loss caused by using logo, confliction with a third party, etc.
+We also do not support individual material editing methods.
+It is allowd to be used for any web materials, application materials, printed matter etc. regardless of commercial or non-commercial use.
+
+Allowed example:
+
+· Create and sell coasters with the logo data.
+· Create a seal with the logo data and put it on the shop front.
+· The act of modifying the logo data and set it on the blog.
+· 最後どう訳そう…？
