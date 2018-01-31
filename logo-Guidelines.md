@@ -29,7 +29,7 @@ It is allowd to be used for any web materials, application materials, printed ma
 
 Allowed example:
 
-· Create and sell coasters with the logo data.
-· Create a seal with the logo data and put it on the shop front.
-· The act of modifying the logo data and set it on the blog.
-· 最後どう訳そう…？
+- Create and sell coasters with the logo data.
+- Create a seal with the logo data and put it on the shop front.
+- The act of modifying the logo data and set it on the blog.
+- Acting that making pull request to our Github repository with modified logo embedded into a code.
