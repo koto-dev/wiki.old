@@ -18,21 +18,18 @@ Kotoのイメージロゴが2018年1月に決定し、Koto開発チームは今�
 - ロゴデータを改変してブログに設置する行為
 - ロゴデータを改変してソフトに組み込みGithubにプルリクエストする行為
 
-Down Load
-https://github.com/koto-dev/wiki/tree/master/Image
-
 # Guidelines for using the logo of Koto
-The image logo of Koto was decided in January 2018, and the Koto dev team sets the rules for future use as these follows.
+The logo of Koto was decided in January 2018 and we, Koto dev team, enact the rules for using the logo as follows.
 
-Modified free and We abandon all rights as CC0.
-Any modification or processing is free(allowed?) at the user's responsibility.
-KotoProject does not follow any responsibility in any damage, loss caused by using logo, confliction with a third party, etc.
-We also do not support individual material editing methods.
-It is allowd to be used for any web materials, application materials, printed matter etc. regardless of commercial or non-commercial use.
+The logo can be modificated freely and we renounce all the rights as CC0.
+Any modification and/or processing of the logo is allowed at your own responsibility.
+We, KotoProject, are not responsible for any damage, loss, confliction with a third party or any other issues caused by using the logo.
+We do not supply any support for editing the logo.
+It is allowd to be used for any web materials, application materials, printed matter and/or anything regardless of commercial or non-commercial use.
 
-Allowed example:
+Examples for use allowed:
 
-- Create and sell coasters with the logo data.
-- Create a seal with the logo data and put it on the shop front.
-- Modify the logo data and set it on the blog.
-- Make the pull request to our Github repository with modified logo embedded into a code.
+- To create and sell coasters with the logo data.
+- To create a sticker with the logo data and put it on your shop front.
+- To modify the logo data and put it on your blog.
+- To make a pull request to our Github repository with modified logo embedded into a code.
