@@ -31,5 +31,5 @@ Allowed example:
 
 - Create and sell coasters with the logo data.
 - Create a seal with the logo data and put it on the shop front.
-- The act of modifying the logo data and set it on the blog.
+- Acting that modifiying the logo data and set it on the blog.
 - Acting that making pull request to our Github repository with modified logo embedded into a code.
