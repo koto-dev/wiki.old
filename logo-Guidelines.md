@@ -18,6 +18,9 @@ Kotoのイメージロゴが2018年1月に決定し、Koto開発チームは今�
 - ロゴデータを改変してブログに設置する行為
 - ロゴデータを改変してソフトに組み込みGithubにプルリクエストする行為
 
+Down Load
+https://github.com/koto-dev/wiki/tree/master/Image
+
 # Guidelines for using the logo of Koto
 The image logo of Koto was decided in January 2018, and the Koto dev team sets the rules for future use as these follows.
 
