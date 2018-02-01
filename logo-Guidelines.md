@@ -24,8 +24,8 @@ The logo of Koto was decided in January 2018 and we, Koto dev team, enact the ru
   The logo can be modified freely and we, Koto dev team, renounce all the rights as CC0.  Any modification and/or processing of the logo is allowed at your own responsibility.  We are not responsible for any damage, loss, confliction with a third party or any other issues caused by using the logo.  We do not supply any support for editing the logo.  Regardless of commercial or non-commercial use, the logo is allowed to be used for anything such as any websites, embedded in application software or printed matter.
 
 Examples for use allowed:
-- To create and sell coasters with the logo data  
-- To create a sticker with the logo data and put it on your shop front  
+- To produce and sell coasters with the logo data  
+- To produce stickers with the logo and put them on your shop front  
 - To modify the logo data and put it on your blog  
 - To make a pull request to our Github repository with modified logo embedded into a code  
 
