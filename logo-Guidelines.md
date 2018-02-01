@@ -16,7 +16,7 @@ Kotoのイメージロゴが2018年1月に決定し、Koto開発チームは今�
 The logo of Koto was decided in January 2018 and we, Koto dev team, enact the rules for using the logo as follows.  
 
 - The logo can be modified freely and we, Koto dev team, renounce all the rights as CC0.  Any modification and/or processing of the logo is allowed at your own responsibility.  We are not responsible for any damage, loss, confliction with a third party or any other issues caused by using the logo.  We do not supply any support for editing the logo.  Regardless of commercial or non-commercial use, the logo is allowed to be used for anything such as any websites, embedded in application software or printed matter.  
-- In case of display and/or use of the logo that can, including but not limited to, lose dignity of Koto significantly or contrary to the public interest, we, Koto dev team, might request to delete or stop any use of the logo at our own discretion.
+- Any use of the Koto logo that we, the Koto Development Team assume could damage Koto's reputation and/or public interest can and will be requested to remove or stop the usage of the Koto logo by us.
 
 Examples for use allowed:
 - To produce and sell coasters with the logo  
