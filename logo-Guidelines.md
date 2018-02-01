@@ -1,10 +1,3 @@
-これは正式発表前の情報です．
-This is not release version.
-
-
-
-
-
 
 # 公募したKotoのロゴの利用ガイドライン
 
