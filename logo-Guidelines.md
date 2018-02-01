@@ -13,16 +13,16 @@ Kotoのイメージロゴが2018年1月に決定し、Koto開発チームは今�
 - ロゴデータを改変してソフトに組み込みGithubにプルリクエストする行為
 
 # Guidelines for using the logo of Koto
-The logo of Koto was decided in January 2018 and we, Koto dev team, enact the rules for using the logo as follows.  
+The logo of Koto was decided in January 2018 and we, the Koto Development Team, enact the rules for using the logo as follows.  
 
-- The logo can be modified freely and we, Koto dev team, renounce all the rights as CC0.  Any modification and/or processing of the logo is allowed at your own responsibility.  We are not responsible for any damage, loss, confliction with a third party or any other issues caused by using the logo.  We do not supply any support for editing the logo.  Regardless of commercial or non-commercial use, the logo is allowed to be used for anything such as any websites, embedded in application software or printed matter.  
+- The logo can be used and modified freely and we, Koto dev team, renounce all the rights to the logo as CC0.  Any modification and/or processing of the logo is allowed. We are not responsible for any damage, loss, confliction with a third party or any other issues caused by using the logo.  We do not supply any support for editing the logo.  Regardless of commercial or non-commercial use, the logo is allowed to be used for anything such as any websites, embedded in application software or printed matter.  
 - Any use of the Koto logo that we, the Koto Development Team assume could damage Koto's reputation and/or public interest can and will be requested to remove or stop the usage of the Koto logo by us.
 
-Examples for use allowed:
-- To produce and sell coasters with the logo  
-- To create stickers with the logo and put them on your shop front  
-- To modify the logo data and put it on your blog  
-- To make a pull request to our Github repository with modified logo embedded into a code  
+Examples for allowed us of the Koto logo:
+- Selling products with the Koto logo
+- Printing out stickers with the logo and putting on your store front
+- To modify the logo and put it on your website/blog
+- To make a pull request to our Github repository with modified logo embedded into a code
 
 
 # Kotoロゴ ダウンロードリンク  download link for Koto logo
