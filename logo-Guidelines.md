@@ -27,7 +27,7 @@ The logo of Koto was decided in January 2018 and we, Koto dev team, enact the ru
 
 Examples for use allowed:
 - To produce and sell coasters with the logo data  
-- To produce stickers with the logo and put them on your shop front  
+- To create stickers with the logo and put them on your shop front  
 - To modify the logo data and put it on your blog  
 - To make a pull request to our Github repository with modified logo embedded into a code  
 
