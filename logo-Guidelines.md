@@ -30,6 +30,5 @@ Examples for use allowed:
 - To make a pull request to our Github repository with modified logo embedded into a code  
 
 
-# Kotoロゴデータ ダウンロードリンク  
-download link for Koto logo data
+# Kotoロゴ ダウンロードリンク  download link for Koto logo
 https://github.com/koto-dev/wiki/tree/master/Image
