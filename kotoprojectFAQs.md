@@ -59,8 +59,9 @@ Koto (Uppercase ‘K’ and lowercase ‘oto’)
 KOTO (Uppercase ‘KOTO’)
 
 ## Usage of premines
-~~Bounties and stock options for contributors. ~~
-~~(ex. Developers of wallet, pool, Author of logo, etc.)~~
+~~Bounties and stock options for contributors. ~~  
+
+~~ex. Developers of wallet, pool, Author of logo, etc.~~
 All the premined balances at this moment belong to the personal assets of the founder, koto.cash, so that the uses of the balances such as funds for faucets, exchange, developing expenses, and so on in the future are decided by own decision of koto.cash. As announced, around 2.10 M Koto of all the premined 3.92 M Koto was used for bounties to the developers by 2018-02-05.
 
 ## Is There a roadmap or whitepaper?
