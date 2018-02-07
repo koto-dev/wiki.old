@@ -16,7 +16,9 @@ Koto（１文字目が大文字）
 KOTO
 
 ## プレマインの使用目的
-koto貢献してくれた人達へのバウンティでありストックオプション
+~~koto貢献してくれた人達へのバウンティでありストックオプション~~
+残プレマインは全額koto.cash氏の個人資産であり今後の投げ銭・換金・運営費等の使い道については個人の自由となる。  
+なお2018-02-05現在までに、プレマイン392万KOTOのうち、約210万KOTOが宣言されていた開発者への報酬などに使われている。
 
 ## ロードマップ OR ホワイトペーパーは？
 ロードマップやホワイトペーパーはICOをする人が作るもの。私たちは地に足ついた開発を目指しています。しかし無策に開発を進めているわけではありません。当面次の目標に沿ってkoto発展を目指します。
@@ -57,8 +59,9 @@ Koto (Uppercase ‘K’ and lowercase ‘oto’)
 KOTO (Uppercase ‘KOTO’)
 
 ## Usage of premines
-Bounties and stock options for contributors. 
-(ex. Developers of wallet, pool, Author of logo, etc.)
+~~Bounties and stock options for contributors. ~~
+~~(ex. Developers of wallet, pool, Author of logo, etc.)~~
+All the premined balances at this moment belong to the personal assets of the founder, koto.cash, so that the uses of the balances such as funds for faucets, exchange, developing expenses, and so on in the future are decided by own decision of koto.cash. As announced, around 2.10 M Koto of all the premined 3.92 M Koto was used for bounties to the developers by 2018-02-05.
 
 ## Is There a roadmap or whitepaper?
 There is currently no plans to make a roadmap or a white-paper because we don’t want to make Koto a trading tool for traders to profit out of. We want to improve the meaning and the value of Koto steadily, but this doesn’t mean we are developing without a plan. For the moment, we will develop with these policies. (In order of priority.)
