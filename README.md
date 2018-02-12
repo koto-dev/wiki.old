@@ -9,5 +9,3 @@ https://github.com/koto-dev/wiki/wiki
 # Koto wiki repository (運営に関する公的文章/Official documents)
 
 https://github.com/koto-dev/wiki/
-
-## title:hot to koto
