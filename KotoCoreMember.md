@@ -1,4 +1,4 @@
-# Kotoコア開発メンバー一覧（KotoCoreMember）
+# Koto運営メンバー一覧（KotoCoreMember）
 
 
 ## 0. 創設者 (Founder)
@@ -13,7 +13,7 @@ Mon_chi (@もぐら#1629)
 
 
 
-## 2. PRチーム (public relations)
+## 2. PRチーム (Public Relations)
 各言語チャンネルの対応を主に担当する。 ("PR-team" mainly support correspond of each language channel.)  
 #### 責任者 (director)
 wangwang (@wangwang#6440) 英語と中国語を担当。 ("wangwang-san" supports English and Chinese.)
@@ -24,7 +24,7 @@ wangwang (@wangwang#6440) 英語と中国語を担当。 ("wangwang-san" support
 
 
 
-## 3. デスクチーム (desk)
+## 3. デスクチーム (Desk)
 各言語への文書作成やKotoプロジェクトの公文書を作成する。 ("Desk-team" make documents for each language and "Official Documents of Koto project".)  
 #### 責任者 (director)
 komax_vc (@komax_vc#0819) 日本語Bitcointalkも担当する。 ("komax_vc-san" supports Japanese Bitcointalk.)    
