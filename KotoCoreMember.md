@@ -44,6 +44,7 @@ renium9 (@renium9#7054)
 - WO (@WO#8361) insightとkotocoin.info運営でもある。 ("WO-san" is "insight" and "kotocoin.info" manager.)  
 - téutidos(@téutidos#4874) KOTOPOOL.WORK運営でもある。PRチームだったが高い技術力により開発技術メンバーへ。 ("téutidos-san" is "KOTOPOOL.WORK"  manager. He belonged to the "PR-Team". However, because he had more technical skill, moved to "Development-team".)  
 - akarinS (@akarinS#6566) (New member!)
+- CryptoJerônimo (@CryptoJerônimo#7951) 現役プログラマー。イギリス在住の為日本と時間はほぼ反対
 
 
 
