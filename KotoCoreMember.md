@@ -18,7 +18,7 @@ Mon_chi (@もぐら#1629)
 #### 責任者 (director)
 wangwang (@wangwang#6440) 英語と中国語を担当。 ("wangwang-san" supports English and Chinese.)
 #### メンバー (member)
-- LimitPlays (@LimitPlays#1844) 英語と中国語を担当。 ("LimitPlays-san" supports English and Chinese.)
+- Limit (@Limit#1844) 英語と中国語を担当。 ("Limit-san" supports English and Chinese.)
 - dr_kw1 (@dr_kw1#5399) 英語チャンネルを担当。技術もできる。 ("dr_kw1-san" supports English. And, he can support dev.)  
 - yoshuya (@yoshuya#6680) 英語チャンネルを担当。limit氏のメッセージを伝えてくれる。 ("yoshuya-san" supports English. And he will convey "limit-san" message.)  
 
